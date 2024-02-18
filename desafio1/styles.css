@@ -1,0 +1,12 @@
+.text-author{
+    color: blue;
+    font-size: large;
+    font-weight: 700;
+}
+.text-field{
+    border-color: red;
+}
+.send-button{
+    color: green;
+    font-weight: 700;
+}
